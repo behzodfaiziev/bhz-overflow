@@ -1,2 +1,2 @@
 # Ask me a question.
-## I can help within a week
+## If you have a question, don't hesitate to open a new issue
